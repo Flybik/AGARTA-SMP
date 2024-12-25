@@ -8,16 +8,27 @@
 
 ## Ссылки
 [Stefan's Armors'N'Items](https://modrinth.com/resourcepack/stefansarmorsnitems)
+
 [Flower Crowns](https://modrinth.com/resourcepack/flower-crowns)
+
 [Kirara's hat](https://modrinth.com/resourcepack/kiraras-hat-genshin-impact)
+
 [Pumpkins+](https://modrinth.com/resourcepack/pumpkins+)
+
 [Elytras+](https://modrinth.com/resourcepack/elytras+)
+
 [S.A.M](https://modrinth.com/resourcepack/s.a.m)
+
 [Sousou no Frieren](https://modrinth.com/resourcepack/sousou-no-frieren)
+
 [КСЭПСП](https://definitelyawhale.github.io/ksepsp_website/#logo)
+
 [Warrior's Weapons](https://modrinth.com/resourcepack/warrior-weapons)
+
 [Anvil Tools](https://modrinth.com/resourcepack/anvil-tools)
+
 [MoreDeco](https://modrinth.com/resourcepack/moredeco)
+
 [Mushoku Tensei](https://modrinth.com/resourcepack/mushoku-tensei)
 
 ---
