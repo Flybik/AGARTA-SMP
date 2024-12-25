@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "spyglass_model",
+		"particle": "spyglass_model"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 11, 9],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 13], "texture": "#0"},
+				"east": {"uv": [2, 2, 4, 13], "texture": "#0"},
+				"south": {"uv": [2, 2, 4, 13], "texture": "#0"},
+				"west": {"uv": [2, 2, 4, 13], "texture": "#0"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "#0"},
+				"down": {"uv": [2, 13, 4, 15], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

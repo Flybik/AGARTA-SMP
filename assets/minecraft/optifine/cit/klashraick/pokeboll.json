@@ -1,0 +1,79 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "poke",
+		"particle": "poke"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [11, 5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"east": {"uv": [0, 5, 5, 10], "texture": "#0"},
+				"south": {"uv": [5, 0, 10, 5], "texture": "#0"},
+				"west": {"uv": [5, 5, 10, 10], "texture": "#0"},
+				"up": {"uv": [5, 15, 0, 10], "texture": "#0"},
+				"down": {"uv": [15, 0, 10, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 1.5, 5.9],
+			"to": [9.5, 3.5, 5.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 5]},
+			"faces": {
+				"north": {"uv": [5, 14, 7, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 2], "texture": "#0"},
+				"south": {"uv": [7, 10, 9, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.9, 1.9, 5.85],
+			"to": [9.15, 3.15, 5.85],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 5]},
+			"faces": {
+				"north": {"uv": [5, 10, 7, 12], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 2], "texture": "#0"},
+				"south": {"uv": [5, 12, 7, 14], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [10, 0, 0],
+			"translation": [-0.5, 5.25, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [10, 0, 0],
+			"translation": [0.5, 5.25, 1]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 10, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 10, 0]
+		},
+		"ground": {
+			"translation": [0, 6.75, 0]
+		},
+		"gui": {
+			"rotation": [42, -146, 0],
+			"translation": [1.25, 7, 0],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"head": {
+			"translation": [-0.25, 14.5, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [-0.5, -0.25, -7]
+		}
+	}
+}

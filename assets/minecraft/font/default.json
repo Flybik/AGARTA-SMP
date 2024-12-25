@@ -1,0 +1,14 @@
+{
+    "providers": [
+        }
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/bI.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u261D"
+            ]
+        }
+    ]
+}
